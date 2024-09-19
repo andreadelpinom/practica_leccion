@@ -1,0 +1,18 @@
+HECHOS
+
+1.Objetos y relaciones en minuscula
+2.Escribir primero relacion y entre parentesis objetos
+3._ para separar caracteres
+4.Siempre se finaliza un hecho con un "."
+5. AND es ","
+6.Variables empiezas con Mayusculas o _
+#Relacion(objeto,objeto)
+#Relacion(obj mas grande, obj mas pequeño)
+
+A= elefante
+B =caballo
+C = Perro
+
+REGLAS RECURSIVAS:
+Pueden llamarse a si mismas. 
+Prolog permite estas reglas. 
